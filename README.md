@@ -9,7 +9,7 @@ cs.fmglan.de
 ### Organisation
 #### Challonge
 [c.fmglan.de](c.fmglan.de)
-
+ 
 ### Sources
 - Setting up a own or custom domain with github pages: https://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages
 - Favicons made with
