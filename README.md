@@ -1,4 +1,3 @@
-# fmglan
 ## Server
 
 ### Teamspeak 3
