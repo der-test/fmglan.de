@@ -9,9 +9,7 @@
 ### Organisation
 #### Challonge
 [c.fmglan.de](c.fmglan.de)
-<!--
-<iframe src="https://challonge.com/de/ks0o2a6c/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
--->
+
 ### Sources
 - Setting up a own or custom domain with github pages: [stackoverflow.com](https://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages)
 - Favicons made with [favicon-generator.org](https://www.favicon-generator.org/)
