@@ -1,5 +1,5 @@
 ### Teamspeak 3
-<iframe allowtransparency="true" src="https://server.nitrado.net/teamspeak/view/5047172?fgcolor=000000" style="height:190px;width:210px;" scrolling="auto" frameborder="0">Your Browser will not show Iframes </iframe>
+<iframe allowtransparency="true" src="https://server.nitrado.net/teamspeak/view/5047172?fgcolor=FFFFFF" style="height:190px;width:210px;" scrolling="auto" frameborder="0">Your Browser will not show Iframes </iframe>
 
 
 
