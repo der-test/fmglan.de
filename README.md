@@ -7,7 +7,7 @@
 [cs.fmglan.de](steam://connect/cs.fmglan.de)
 
 ### Challonge
-[c.fmglan.de](c.fmglan.de)
+[c.fmglan.de](https://c.fmglan.de)
 
 ## About
 ### Sources
