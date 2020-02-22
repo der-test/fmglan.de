@@ -10,7 +10,11 @@ ts.fmglan.de
 
 
 ### Counter Strike: Global Offensive
+#### Server 1 12 Slots
 [cs.fmglan.de](steam://connect/cs.fmglan.de)
+
+#### Server 2 24 Slots
+[cs2.fmglan.de](steam://connect/cs2.fmglan.de)
 
 ### Challonge
 [c.fmglan.de](https://c.fmglan.de)
