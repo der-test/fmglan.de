@@ -1,5 +1,10 @@
 
 ### Teamspeak 3
+
+ts.fmglan.de
+31.214.227.11:1100
+
+
 <iframe allowtransparency="true" src="https://server.nitrado.net/teamspeak/view/5047172?fgcolor=FFFFFF" style="height:200px;width:210px;" scrolling="auto" frameborder="0">Your Browser will not show Iframes </iframe>
 
 
