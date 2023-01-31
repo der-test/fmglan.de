@@ -4,20 +4,12 @@
 ts.fmglan.de
 31.214.227.11:1100
 
-
-<iframe allowtransparency="true" src="https://server.nitrado.net/teamspeak/view/5047172?fgcolor=FFFFFF" style="height:500px;width:210px;" scrolling="auto" frameborder="0">Your Browser will not show Iframes </iframe>
-
-
-
-### Counter Strike: Global Offensive
-#### Server 1 12 Slots
+### CS:GO
+#### Server 1 (inacitve)
 [cs.fmglan.de](steam://connect/cs.fmglan.de)
 
-#### Server 2 24 Slots
+#### Server 2 (inactive)
 [cs2.fmglan.de](steam://connect/cs2.fmglan.de)
-
-### Challonge
-[c.fmglan.de](https://c.fmglan.de)
 
 ### About
 This is just a fun project to test setting up a custom domain with github pages and learning how to configure jekyll. The reason to a add a custom layout (`_layout/default.html`) was to add web app capability (`_includes/meta.html`).
